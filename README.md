@@ -4,9 +4,9 @@
 https://github.com/alinajafiweb/gridLayout/assets/147813870/1e4d2933-5d14-42f9-80a8-304c948251dd
 
 
-- [Demo Project](https://aliafrouz.github.io/gridLayout/)
+- [Demo Project](https://alinajafi-developer.github.io/gridLayout/)
 
-- Developed by Ali Afrouz
+- Developed by Ali Najafi
 
 - Created - 2023-11-11
 
@@ -16,4 +16,4 @@ https://github.com/alinajafiweb/gridLayout/assets/147813870/1e4d2933-5d14-42f9-8
 
 - Role - Frontend
 
-- How to reach me : with my [instagram](https://www.instagram.com/aliafrouz_com) and [linkedin](https://www.linkedin.com/in/aliafrouz/)
+- How to reach me : with my [instagram](https://www.instagram.com/alinajafi_developer) and [linkedin](https://www.linkedin.com/in/alinajafi-developer/)
